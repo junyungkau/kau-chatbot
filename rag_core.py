@@ -12,7 +12,7 @@ from langchain_community.retrievers import BM25Retriever
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DB_FAISS_PATH = os.path.join(BASE_DIR, "faiss_index")
 DB_BM25_PATH = os.path.join(BASE_DIR, "bm25_retriever.pkl")
-EMBEDDING_MODEL = "BAAI/bge-m3"
+EMBEDDING_MODEL = "jhgan/ko-sroberta-multitask"
 
 # 2. API 키 설정 (환경변수에서 가져오거나 직접 입력)
 # Render 배포 시에는 Environment Variable 설정을 권장합니다.

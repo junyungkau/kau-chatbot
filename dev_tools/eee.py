@@ -18,7 +18,7 @@ DB_FAISS_PATH = os.path.join(BASE_DIR, "faiss_index")
 DB_BM25_PATH = os.path.join(BASE_DIR, "bm25_retriever.pkl")
 
 # 최신 한국어 임베딩
-EMBEDDING_MODEL = "BAAI/bge-m3"
+EMBEDDING_MODEL = "jhgan/ko-sroberta-multitask"
 
 # -----------------------------
 # 정규식
