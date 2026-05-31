@@ -1,0 +1,14 @@
+flask
+gunicorn
+google-genai
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+rank-bm25
+beautifulsoup4
+lxml
+requests
+schedule

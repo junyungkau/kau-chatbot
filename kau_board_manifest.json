@@ -1,0 +1,152 @@
+{
+  "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=15&mode=read&seq=8511": {
+    "key": "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=15&mode=read&seq=8511",
+    "url": "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=15&mode=read&seq=8511",
+    "title": "2025년도 2월 졸업대상자 공고 및 졸업인증 제출 관련 안내",
+    "date": "2024-11-06",
+    "file_path": "KAU_Crawling_Data\\acdnoti\\cleaned_txt13\\acdnoti_8511.txt",
+    "content_hash": "3e9440817068d5a29417593ccaea1c3e9b3ca76c961ce74362eec1367b2ebd0f",
+    "last_status": "new",
+    "last_checked": "2026-05-30 14:59:52"
+  },
+  "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=14&mode=read&seq=8691": {
+    "key": "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=14&mode=read&seq=8691",
+    "url": "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=14&mode=read&seq=8691",
+    "title": "2025학년도 1학기 현장실습학기제 실시 안내(수정)",
+    "date": "2025-01-06",
+    "file_path": "KAU_Crawling_Data\\acdnoti\\cleaned_txt13\\acdnoti_8691.txt",
+    "content_hash": "06f438507d535a42a073c53b28f24d6431d09ae0b99cbe5435d81085fc24b027",
+    "last_status": "new",
+    "last_checked": "2026-05-30 15:00:06"
+  },
+  "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=10&mode=read&seq=9222": {
+    "key": "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=10&mode=read&seq=9222",
+    "url": "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=10&mode=read&seq=9222",
+    "title": "[장학금] 2025-1학기 SPACE 인증제 우수 장학금 신청 안내(~7/25, 기간연장)",
+    "date": "2025-05-26",
+    "file_path": "KAU_Crawling_Data\\acdnoti\\cleaned_txt13\\acdnoti_9222.txt",
+    "content_hash": "4bba8e98998d118f3d30951eaab9e41444c41d15742f754756b2b8fcf24892b4",
+    "last_status": "new",
+    "last_checked": "2026-05-30 15:00:20"
+  },
+  "https://kau.ac.kr/kaulife/scholnoti.php?searchkey=&searchvalue=&code=s1301&page=2&mode=read&seq=10071": {
+    "key": "https://kau.ac.kr/kaulife/scholnoti.php?searchkey=&searchvalue=&code=s1301&page=2&mode=read&seq=10071",
+    "url": "https://kau.ac.kr/kaulife/scholnoti.php?searchkey=&searchvalue=&code=s1301&page=2&mode=read&seq=10071",
+    "title": "2026년 상반기 울산광역시 대학(원)생 학자금 대출 이자지원 사업 안내",
+    "date": "2026-01-13",
+    "file_path": "KAU_Crawling_Data\\scholnoti\\cleaned_txt5\\scholnoti_10071.txt",
+    "content_hash": "2be92c900b39e86cd503aa384a98c44fe096de4184a5dad2faf6baa684f6d10b",
+    "last_status": "new",
+    "last_checked": "2026-05-30 15:00:23"
+  },
+  "https://kau.ac.kr/kaulife/iunoti.php?searchkey=&searchvalue=&code=s1901&page=8&mode=read&seq=1143": {
+    "key": "https://kau.ac.kr/kaulife/iunoti.php?searchkey=&searchvalue=&code=s1901&page=8&mode=read&seq=1143",
+    "url": "https://kau.ac.kr/kaulife/iunoti.php?searchkey=&searchvalue=&code=s1901&page=8&mode=read&seq=1143",
+    "title": "[지식경제부]2012년도 산업융합원천기술개발사업 (주력산업·신산업 분야) 신규지원 대상과제 공고",
+    "date": "2012-03-22",
+    "file_path": "KAU_Crawling_Data\\iunoti\\cleaned_txt2\\iunoti_1143.txt",
+    "content_hash": "1a7918aaf6a615e5290d6e42a91f3367023163d8bc00d02697c97b0ca79f57d0",
+    "last_status": "new",
+    "last_checked": "2026-05-30 15:00:29"
+  },
+  "https://kau.ac.kr/kaulife/iunoti.php?searchkey=&searchvalue=&code=s1901&page=8&mode=read&seq=1160": {
+    "key": "https://kau.ac.kr/kaulife/iunoti.php?searchkey=&searchvalue=&code=s1901&page=8&mode=read&seq=1160",
+    "url": "https://kau.ac.kr/kaulife/iunoti.php?searchkey=&searchvalue=&code=s1901&page=8&mode=read&seq=1160",
+    "title": "[지식경제부]2012년도 LED시스템조명기술개발사업 신규지원 대상과제 공고",
+    "date": "2012-04-18",
+    "file_path": "KAU_Crawling_Data\\iunoti\\cleaned_txt2\\iunoti_1160.txt",
+    "content_hash": "aee5a069d9850631b997e23374cd5242a77d9ee8f1c7f1867f0e5594ce1b7cb2",
+    "last_status": "new",
+    "last_checked": "2026-05-30 15:00:33"
+  },
+  "https://kau.ac.kr/kaulife/iunoti.php?searchkey=&searchvalue=&code=s1901&page=8&mode=read&seq=1165": {
+    "key": "https://kau.ac.kr/kaulife/iunoti.php?searchkey=&searchvalue=&code=s1901&page=8&mode=read&seq=1165",
+    "url": "https://kau.ac.kr/kaulife/iunoti.php?searchkey=&searchvalue=&code=s1901&page=8&mode=read&seq=1165",
+    "title": "[지식경제부] 2012 녹색사업 선도형 이차전지기술개발사업 신규지원 대상과제 공고",
+    "date": "2012-04-18",
+    "file_path": "KAU_Crawling_Data\\iunoti\\cleaned_txt2\\iunoti_1165.txt",
+    "content_hash": "035c1a66651eacae2cd51f891a862fb9c9b43d4bc416bff253caf3ae9c573f30",
+    "last_status": "new",
+    "last_checked": "2026-05-30 15:00:37"
+  },
+  "https://kau.ac.kr/kaulife/iunoti.php?searchkey=&searchvalue=&code=s1901&page=4&mode=read&seq=1410": {
+    "key": "https://kau.ac.kr/kaulife/iunoti.php?searchkey=&searchvalue=&code=s1901&page=4&mode=read&seq=1410",
+    "url": "https://kau.ac.kr/kaulife/iunoti.php?searchkey=&searchvalue=&code=s1901&page=4&mode=read&seq=1410",
+    "title": "[지식경제부]2013년 우수기술연구센터(ATC)사업 시행계획 공고",
+    "date": "2013-03-27",
+    "file_path": "KAU_Crawling_Data\\iunoti\\cleaned_txt2\\iunoti_1410.txt",
+    "content_hash": "607b5dc161f2d2d4766b17cb36b5aa7e8dcc2ff4869ec4a344d9f1cdf70d15e7",
+    "last_status": "new",
+    "last_checked": "2026-05-30 15:00:41"
+  },
+  "https://kau.ac.kr/kaulife/iunoti.php?searchkey=&searchvalue=&code=s1901&page=1&mode=read&seq=5977": {
+    "key": "https://kau.ac.kr/kaulife/iunoti.php?searchkey=&searchvalue=&code=s1901&page=1&mode=read&seq=5977",
+    "url": "https://kau.ac.kr/kaulife/iunoti.php?searchkey=&searchvalue=&code=s1901&page=1&mode=read&seq=5977",
+    "title": "[광주] 2022년 첨단기술기업 컨설팅 지원 및 성과 조사 분석",
+    "date": "2022-05-23",
+    "file_path": "KAU_Crawling_Data\\iunoti\\cleaned_txt2\\iunoti_5977.txt",
+    "content_hash": "21702418a4d9fda6dce95c721a92ad3b573af070d0d78de01731536273377c06",
+    "last_status": "new",
+    "last_checked": "2026-05-30 15:00:49"
+  },
+  "https://kau.ac.kr/kaulife/notice.php?searchkey=&searchvalue=&code=s1101&page=163&mode=read&seq=3277": {
+    "key": "https://kau.ac.kr/kaulife/notice.php?searchkey=&searchvalue=&code=s1101&page=163&mode=read&seq=3277",
+    "url": "https://kau.ac.kr/kaulife/notice.php?searchkey=&searchvalue=&code=s1101&page=163&mode=read&seq=3277",
+    "title": "고양시청소년문화의집 방과후 멘토 모집",
+    "date": "2011-02-23",
+    "file_path": "KAU_Crawling_Data\\notice\\cleaned_txt19\\notice_3277.txt",
+    "content_hash": "b2522c0446bb6ca8f765cddebb52ba00d6fe2c1ffb7772cf4ce0a4ee5faa3549",
+    "last_status": "new",
+    "last_checked": "2026-05-30 15:00:53"
+  },
+  "https://kau.ac.kr/kaulife/notice.php?searchkey=&searchvalue=&code=s1101&page=152&mode=read&seq=3490": {
+    "key": "https://kau.ac.kr/kaulife/notice.php?searchkey=&searchvalue=&code=s1101&page=152&mode=read&seq=3490",
+    "url": "https://kau.ac.kr/kaulife/notice.php?searchkey=&searchvalue=&code=s1101&page=152&mode=read&seq=3490",
+    "title": "고속도로 장학 안내",
+    "date": "2013-09-05",
+    "file_path": "KAU_Crawling_Data\\notice\\cleaned_txt19\\notice_3490.txt",
+    "content_hash": "3521e4244468729e9e5cff35a50d6c93ef0ec1164b166d9483a54882c4b89785",
+    "last_status": "new",
+    "last_checked": "2026-05-30 15:00:55"
+  },
+  "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=121&mode=read&seq=547": {
+    "key": "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=121&mode=read&seq=547",
+    "url": "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=121&mode=read&seq=547",
+    "title": "경인지역 대학교 학점교류안내",
+    "date": "2006-07-11",
+    "file_path": "C:\\Users\\sswon\\source\\repos\\PythonApplication1\\PythonApplication1\\KAU_Crawling_Data\\acdnoti\\cleaned_txt1\\acdnoti_547.txt",
+    "content_hash": "49d979042e5c4cce8600723f4d8ef685f4e20b2ba87f4072ee49ca89a0839e20",
+    "last_status": "new",
+    "last_checked": "2026-05-30 15:05:51"
+  },
+  "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=121&mode=read&seq=537": {
+    "key": "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=121&mode=read&seq=537",
+    "url": "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=121&mode=read&seq=537",
+    "title": "편입생 Tutoring 실시 안내",
+    "date": "2006-09-04",
+    "file_path": "C:\\Users\\sswon\\source\\repos\\PythonApplication1\\PythonApplication1\\KAU_Crawling_Data\\acdnoti\\cleaned_txt1\\acdnoti_537.txt",
+    "content_hash": "530ac9bc64328906873371b2fe8bf695deded66ffdf971c4788658c5ad68d725",
+    "last_status": "new",
+    "last_checked": "2026-05-30 15:05:53"
+  },
+  "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=121&mode=read&seq=550": {
+    "key": "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=121&mode=read&seq=550",
+    "url": "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=121&mode=read&seq=550",
+    "title": "성적경고 기록 변경 불가 안내",
+    "date": "2006-09-06",
+    "file_path": "C:\\Users\\sswon\\source\\repos\\PythonApplication1\\PythonApplication1\\KAU_Crawling_Data\\acdnoti\\cleaned_txt1\\acdnoti_550.txt",
+    "content_hash": "97605587cde053a5ffbc9eee2cbdaba8391064afabf9a62bcdabcd179dd5b688",
+    "last_status": "new",
+    "last_checked": "2026-05-30 15:05:55"
+  },
+  "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=121&mode=read&seq=551": {
+    "key": "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=121&mode=read&seq=551",
+    "url": "https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=121&mode=read&seq=551",
+    "title": "(인하대)e-러닝 중간고사 일정 안내",
+    "date": "2006-09-21",
+    "file_path": "C:\\Users\\sswon\\source\\repos\\PythonApplication1\\PythonApplication1\\KAU_Crawling_Data\\acdnoti\\cleaned_txt1\\acdnoti_551.txt",
+    "content_hash": "67563eeeea90cba049434e0f1c16b2fe72ff8a23fb469171f7b34281ed344ad6",
+    "last_status": "new",
+    "last_checked": "2026-05-30 15:05:57"
+  }
+}

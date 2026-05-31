@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+KAU_Crawling_Data/
+refined_data/
+
+.DS_Store
+Thumbs.db
