@@ -1,0 +1,13 @@
+https://kau.ac.kr/kaulife/acdnoti.php?searchkey=&searchvalue=&code=s1201&page=1
+https://kau.ac.kr/kaulife/scholnoti.php?searchkey=&searchvalue=&code=s1301&page=1
+https://kau.ac.kr/kaulife/event.php?searchkey=&searchvalue=&code=s1401&page=1
+https://kau.ac.kr/kaulife/recruitment.php?searchkey=&searchvalue=&code=s1501&page=1
+https://kau.ac.kr/kaulife/bid.php?searchkey=&searchvalue=&code=s1601&page=1
+https://kau.ac.kr/kaulife/covidnoti.php?searchkey=&searchvalue=&code=s1701&page=1
+https://kau.ac.kr/kaulife/itnoti.php?searchkey=&searchvalue=&code=s1801&page=1
+https://kau.ac.kr/kaulife/iunoti.php?searchkey=&searchvalue=&code=s1901&page=1
+https://kau.ac.kr/kaulife/event.php
+https://kau.ac.kr/kaulife/notice.php
+https://kau.ac.kr/intro/speeches.php
+https://kau.ac.kr/kaulife/labnoti.php
+https://kau.ac.kr/kaulife/labappl.php

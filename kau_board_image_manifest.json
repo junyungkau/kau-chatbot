@@ -1,0 +1,132 @@
+{
+  "data_image:ac8685488cd552b5a57cf152b556070f3eb6fb02711d3ad3a3ee637d5e0cf951": {
+    "url": "data:image/...base64 생략",
+    "image_hash": "ac8685488cd552b5a57cf152b556070f3eb6fb02711d3ad3a3ee637d5e0cf951",
+    "ocr_text": "(Gemini 이미지 OCR 에러: Server disconnected without sending a response.)",
+    "last_checked": "2026-05-30 14:59:52"
+  },
+  "data_image:08179d3ee5fe57242749ac567ffc18275455d018662b0ac5831454298f1442e7": {
+    "url": "data:image/...base64 생략",
+    "image_hash": "08179d3ee5fe57242749ac567ffc18275455d018662b0ac5831454298f1442e7",
+    "ocr_text": "(Gemini 이미지 OCR 에러: Server disconnected without sending a response.)",
+    "last_checked": "2026-05-30 14:59:52"
+  },
+  "data_image:d9cc55591aebe0f0cd1bfe410edecf5b8fb4f59ab341089250d765d06862789c": {
+    "url": "data:image/...base64 생략",
+    "image_hash": "d9cc55591aebe0f0cd1bfe410edecf5b8fb4f59ab341089250d765d06862789c",
+    "ocr_text": "한국항공대학교 현장실습지원센터\n\n교육부\n\n현장실습학기제 안내\n\n| 현장실습학기제란?                                                                                                                                         |\n| :-------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| 학교와 현장실습기관(기업) 간 산학협력 관계를 기반으로 실시되는 학교 밖으로 연장된 경험학습을 위한 수업방법으로, 학교에서 배운 지식과 기술을 현장에서 경험하고 적용함으로써 직무 체험 기회 및 현장 적응력 제고 등을 위한 교육과정 |\n\n| 참여 대상 | |\n| :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |\n| 학생 | 3학기 이상 이수한 재학생 1),2)<br>1) 정규학기 : 휴학생, 초과학기생 참여 불가<br>2) 계절학기 : 졸업(수료)예정자, 초과학기생 참여 불가 |\n| 실습기관 | 중소기업기본법, 동법 시행령에 의거 설립된 종업원 5인 이상 기업<br>정부 및 지자체, 공공기관, 연구기관, 공기업, 기타 등 |\n\n| 기대 효과 | 실습기관 | 학생 |\n| :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| | * 우수 인력의 조기 확보<br>* 인재 양성 및 지역사회 공헌<br>* 전공 지식을 갖춘 학생을 통한 기업 애로사항 해결<br>* 체계적인 인력 검증으로 초기 재교육 비용 절감 | * 전공 직무교육을 통한 실무능력 함양<br>* 직무체험을 통한 진로 및 직업 탐색<br>* 해당 분야로의 취업 연계<br>* 학점 이수 및 장학금 수혜 |\n\n한국항공대학교\nKorea Aerospace University",
+    "last_checked": "2026-05-30 15:00:01"
+  },
+  "data_image:1d4560e8d43db0fd91f8616896fe8e100d06373c82c2f5b79918ac30d6ab4a40": {
+    "url": "data:image/...base64 생략",
+    "image_hash": "1d4560e8d43db0fd91f8616896fe8e100d06373c82c2f5b79918ac30d6ab4a40",
+    "ocr_text": "(Gemini 이미지 OCR 에러: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Unable to process input image. Please retry or report in https://developers.generativeai.google/guide/troubleshooting', 'status': 'INVALID_ARGUMENT'}})",
+    "last_checked": "2026-05-30 15:00:01"
+  },
+  "data_image:eefb969224c44caad6b29e2261bc4afe2473c2a9be03afa04ea9293374cee2d2": {
+    "url": "data:image/...base64 생략",
+    "image_hash": "eefb969224c44caad6b29e2261bc4afe2473c2a9be03afa04ea9293374cee2d2",
+    "ocr_text": "| 구분 | 내용 |\n|---|---|\n| **운영 절차** | 모든 절차는 온라인 현장실습시스템(WESS)으로 진행됩니다. |\n\n| 학생 | 대학 | 실습기관 |\n|---|---|---|\n| | 실습기관 수요 조사 | 운영계획서 작성/제출 |\n| 이력서 작성/제출 | 현장실습 지원자 모집 |\n|  | 실습생 선발 - 1차 선발(학부/과), 최종 선발(실습기관) |\n|  | 협약 체결 및 실습생 사전교육 실시 |\n| 실습생 상해보험 가입 |  | 실습생 산재보험 가입 |\n|  | 현장실습 실시 |  |\n| 주간보고서 작성<br>중간점검서 작성 | 현장 지도방문<br>학생 중간점검 실시 | 산재보험 증빙서류 제출<br>출근부 작성 |\n|  | 현장실습 종료 |  |\n| 결과보고서 제출<br>만족도 조사 작성 | 학생 보고서 검토<br>출근부/평가표 검토 | 출근부 제출<br>학생 평가 점수 입력 |\n|  | 학점 부여 |  |\n|  | 장학금 지급 |  |\n\n**문의처**\n한국항공대학교 현장실습지원센터/대학일자리스 플러스센터\n현장실습학기제 담당자 안승준 (☎ 02-300-0027)\n\n한국항공대학교\nKorea Aerospace University",
+    "last_checked": "2026-05-30 15:00:06"
+  },
+  "https://kau.ac.kr/upfile/2025/07/07/20250707092045-8208.jpg": {
+    "url": "https://kau.ac.kr/upfile/2025/07/07/20250707092045-8208.jpg",
+    "image_hash": "afc0322ab538262b4e86a6514a0b41a4e59b4d00bea5e35a967abaca3b08dc6d",
+    "ocr_text": "2025-1학기 SPACE 인증제 우수장학금 신청 안내 (기간연장)\n\n2025-1학기 SPACE 인증제 우수 장학금 신청기한을 연장하여 다음과 같이 시행하오니 안내합니다.\n\n1. 장학명: SPACE 인증제 우수 장학금\n\n2. 추진배경\n가. 본교가 추구하는 창의적·실용적·지도적 인재 목표 달성\n나. 비교과 교육 전반에 걸친 다양한 교육활동 체험을 통해 성숙한 인재 양성\n다. 성실하고 도전정신을 갖춘 학생들을 장려하고자 함\n\n3. 신청대상 및 조건 (선발 기준 자격)\n\n| 구분 | 내용 |\n|---|---|\n| 대상 | 1) SPACE 인증을 적용받는 2018학년도 신(편)입생 이후 <br> (※ 학칙시행세칙 제34조의3항에 의거, 북한이탈주민, 학군제후 군위탁생, 계약학과 학생은 예외) <br> - 재(휴)학생 : SPACE 인증제 5학점 중 3개 이상 역량을 7학기 이내 조기 취득한 자 <br> (단, 글로벌능력인증은 필수) <br> - 2025학년도 신입생 : 글로벌소통역량인증분야 기준이 제시되지 않아 외국어 성적을 제출할 수 <br> 없으므로 5학점 중 분야 상관없이 3억량 이상 취득한 자 (단, 외국어 성적 제출 불가) |\n| 선발인원 및 장학금 지급액 | - 80명(동점자 발생시 변동 가능 있음) ※ 하단 <선발기준> 참조 <br> - 장학금 지급액: 30만원 |\n\n<선발기준>\n① 2025학년도 신입생: 5학점 중 분야 상관없이 가장 많은 역량을 취득한 학생 <br> (단, 글로벌소통역량 분야 중 영어를 포함한 외국어 성적 제출 불가)\n② 재(휴)학생: SPACE 인증 5학점 중 가장 많은 역량을 취득한 학생 선발 (글로벌소통역량인증 필수) <br> (☞ 5개 영역에 대한 가중치는 동일하며, 단순 역량 개수로만 판단함)\n③ 1차 선발기준 동점자에 대해서는 ‘글로벌소통역량인증’의 공인 영어점수 환산 점수에 따라 더 높은 점수 <br> 를 받은 학생 선발 (공인 영어점수 환산표 : 별도 첨부)\n④ 2025학년도 신입생 중 1차 선발기준 동점자는 별도의 선발기준을 통해 선발 <br> ※ 필수사항: SPACE 인증제 우수 장학금 지원서 제출서를 함께 제출해야 함(별도첨부)\n*SPACE 인증제 인정범위 참조 : https://kau.ac.kr/kaulife/gradcerti.php (졸업인증제의 SPACE 인증제와 동일함)\n[학교홈페이지 경로 : 항대생활-수업 및 성적 - 졸업 - 졸업인증]",
+    "last_checked": "2026-05-30 15:00:16"
+  },
+  "https://kau.ac.kr/upfile/2025/07/07/20250707092121-8524.jpg": {
+    "url": "https://kau.ac.kr/upfile/2025/07/07/20250707092121-8524.jpg",
+    "image_hash": "8185a1a77357415488f4dce327269adc91c210e76a6c2966d6cd9507d650266d",
+    "ocr_text": "(Gemini 이미지 OCR 에러: 'NoneType' object has no attribute 'strip')",
+    "last_checked": "2026-05-30 15:00:20"
+  },
+  "data_image:cea9cf3b9213d841ec79421910f55d83be8d6d61692a48e037fbf764040315fe": {
+    "url": "data:image/...base64 생략",
+    "image_hash": "cea9cf3b9213d841ec79421910f55d83be8d6d61692a48e037fbf764040315fe",
+    "ocr_text": "(Gemini 이미지 OCR 에러: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Unable to process input image. Please retry or report in https://developers.generativeai.google/guide/troubleshooting', 'status': 'INVALID_ARGUMENT'}})",
+    "last_checked": "2026-05-30 15:00:23"
+  },
+  "https://www.keit.re.kr/FileFck/image/111019_img_01.gif": {
+    "url": "https://www.keit.re.kr/FileFck/image/111019_img_01.gif",
+    "image_hash": "936a8bd7d660c7338a5d5417e6d9bf80a5263bb6071dbb7fec6a8f42775dfa2c",
+    "ocr_text": "(Gemini 이미지 OCR 에러: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Unsupported MIME type: text/html;charset=UTF-8', 'status': 'INVALID_ARGUMENT'}})",
+    "last_checked": "2026-05-30 15:00:29"
+  },
+  "https://www.keit.re.kr/FileFck/image/120308_img_02.gif": {
+    "url": "https://www.keit.re.kr/FileFck/image/120308_img_02.gif",
+    "image_hash": "936a8bd7d660c7338a5d5417e6d9bf80a5263bb6071dbb7fec6a8f42775dfa2c",
+    "ocr_text": "(Gemini 이미지 OCR 에러: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Unsupported MIME type: text/html;charset=UTF-8', 'status': 'INVALID_ARGUMENT'}})",
+    "cached_from_key": "https://www.keit.re.kr/FileFck/image/111019_img_01.gif",
+    "last_checked": "2026-05-30 15:00:29"
+  },
+  "https://www.keit.re.kr/FileFck/image/btn_rfp-1.gif": {
+    "url": "https://www.keit.re.kr/FileFck/image/btn_rfp-1.gif",
+    "image_hash": "936a8bd7d660c7338a5d5417e6d9bf80a5263bb6071dbb7fec6a8f42775dfa2c",
+    "ocr_text": "(Gemini 이미지 OCR 에러: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Unsupported MIME type: text/html;charset=UTF-8', 'status': 'INVALID_ARGUMENT'}})",
+    "cached_from_key": "https://www.keit.re.kr/FileFck/image/111019_img_01.gif",
+    "last_checked": "2026-05-30 15:00:32"
+  },
+  "https://www.keit.re.kr/FileFck/image/btn_files.gif": {
+    "url": "https://www.keit.re.kr/FileFck/image/btn_files.gif",
+    "image_hash": "936a8bd7d660c7338a5d5417e6d9bf80a5263bb6071dbb7fec6a8f42775dfa2c",
+    "ocr_text": "(Gemini 이미지 OCR 에러: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Unsupported MIME type: text/html;charset=UTF-8', 'status': 'INVALID_ARGUMENT'}})",
+    "cached_from_key": "https://www.keit.re.kr/FileFck/image/111019_img_01.gif",
+    "last_checked": "2026-05-30 15:00:32"
+  },
+  "https://www.keit.re.kr/FileFck/image/130321_img_01.gif": {
+    "url": "https://www.keit.re.kr/FileFck/image/130321_img_01.gif",
+    "image_hash": "936a8bd7d660c7338a5d5417e6d9bf80a5263bb6071dbb7fec6a8f42775dfa2c",
+    "ocr_text": "(Gemini 이미지 OCR 에러: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Unsupported MIME type: text/html;charset=UTF-8', 'status': 'INVALID_ARGUMENT'}})",
+    "cached_from_key": "https://www.keit.re.kr/FileFck/image/111019_img_01.gif",
+    "last_checked": "2026-05-30 15:00:40"
+  },
+  "https://pms.innopolis.or.kr/dextfile/multifile-open.do?key=AHL202200041148&subKey=358218": {
+    "url": "https://pms.innopolis.or.kr/dextfile/multifile-open.do?key=AHL202200041148&subKey=358218",
+    "image_hash": "eb5fe0139befb31f6ebb5a3dab142a0f6e843ac12d80354649537e3eaea78339",
+    "ocr_text": "(Gemini 이미지 OCR 에러: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Unsupported MIME type: image/jpg;charset=UTF-8', 'status': 'INVALID_ARGUMENT'}})",
+    "last_checked": "2026-05-30 15:00:44"
+  },
+  "https://pms.innopolis.or.kr/dextfile/multifile-open.do?key=AHL202200041148&subKey=358216": {
+    "url": "https://pms.innopolis.or.kr/dextfile/multifile-open.do?key=AHL202200041148&subKey=358216",
+    "image_hash": "b36840e1c6f034a44a38c72917bbfbaad23e65a7f80c7882a00742befeb7770a",
+    "ocr_text": "(Gemini 이미지 OCR 에러: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Unsupported MIME type: image/jpg;charset=UTF-8', 'status': 'INVALID_ARGUMENT'}})",
+    "last_checked": "2026-05-30 15:00:45"
+  },
+  "https://pms.innopolis.or.kr/dextfile/multifile-open.do?key=AHL202200041148&subKey=358219": {
+    "url": "https://pms.innopolis.or.kr/dextfile/multifile-open.do?key=AHL202200041148&subKey=358219",
+    "image_hash": "19793e0aa7ed9d9851131c8d5ea1c679b71e0611488eeeff72cfa1fdafe609bc",
+    "ocr_text": "(Gemini 이미지 OCR 에러: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Unsupported MIME type: image/jpg;charset=UTF-8', 'status': 'INVALID_ARGUMENT'}})",
+    "last_checked": "2026-05-30 15:00:46"
+  },
+  "https://pms.innopolis.or.kr/dextfile/multifile-open.do?key=AHL202200041148&subKey=358217": {
+    "url": "https://pms.innopolis.or.kr/dextfile/multifile-open.do?key=AHL202200041148&subKey=358217",
+    "image_hash": "f7da71bfed4b27ce97bc965d5d085a36a87757b6a1c66265e65a4e286a5b0db1",
+    "ocr_text": "(Gemini 이미지 OCR 에러: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Unsupported MIME type: image/jpg;charset=UTF-8', 'status': 'INVALID_ARGUMENT'}})",
+    "last_checked": "2026-05-30 15:00:47"
+  },
+  "https://pms.innopolis.or.kr/dextfile/multifile-open.do?key=AHL202200041148&subKey=358220": {
+    "url": "https://pms.innopolis.or.kr/dextfile/multifile-open.do?key=AHL202200041148&subKey=358220",
+    "image_hash": "c2ed08113e9f5122235ac53df7b85ca47d2512e4508c2b8954204b9c8693be47",
+    "ocr_text": "(Gemini 이미지 OCR 에러: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Unsupported MIME type: image/jpg;charset=UTF-8', 'status': 'INVALID_ARGUMENT'}})",
+    "last_checked": "2026-05-30 15:00:48"
+  },
+  "https://pms.innopolis.or.kr/dextfile/multifile-open.do?key=AHL202200041148&subKey=358221": {
+    "url": "https://pms.innopolis.or.kr/dextfile/multifile-open.do?key=AHL202200041148&subKey=358221",
+    "image_hash": "0d2674116d4779b75e2a3acc646448ec0aad5601887334ca1c4efe68da60e08c",
+    "ocr_text": "(Gemini 이미지 OCR 에러: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Unsupported MIME type: image/jpg;charset=UTF-8', 'status': 'INVALID_ARGUMENT'}})",
+    "last_checked": "2026-05-30 15:00:49"
+  },
+  "https://mail.artgy.or.kr/mail/mail_confirm.php?host=artgy.or.kr&id=caeby&sid=12973132880219578000&rcptto=ricg9998%40kau.ac.kr": {
+    "url": "https://mail.artgy.or.kr/mail/mail_confirm.php?host=artgy.or.kr&id=caeby&sid=12973132880219578000&rcptto=ricg9998%40kau.ac.kr",
+    "image_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "ocr_text": "(Gemini 이미지 OCR 에러: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Unsupported MIME type: text/html; charset=UTF-8', 'status': 'INVALID_ARGUMENT'}})",
+    "last_checked": "2026-05-30 15:00:53"
+  },
+  "https://www.ex.co.kr/wwwhome2/portal/cus/public_relations/notice/__icsFiles/artimage/2013/09/04/130904.jpg": {
+    "url": "https://www.ex.co.kr/wwwhome2/portal/cus/public_relations/notice/__icsFiles/artimage/2013/09/04/130904.jpg",
+    "image_hash": "49435e787ff5ca4877ade026a8c2fa7e960948602c895d5b7f8483c1e117666a",
+    "ocr_text": "(Gemini 이미지 OCR 에러: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Unsupported MIME type: text/html; charset=utf-8', 'status': 'INVALID_ARGUMENT'}})",
+    "last_checked": "2026-05-30 15:00:55"
+  }
+}
