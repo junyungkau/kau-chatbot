@@ -1,0 +1,15 @@
+[Unit]
+Description=KAU Kakao Chatbot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/kau-chatbot
+EnvironmentFile=/etc/kau-chatbot.env
+ExecStart=/opt/kau-chatbot/.venv/bin/gunicorn -b 0.0.0.0:${PORT} app:app --workers 1 --threads 4 --timeout 180
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
