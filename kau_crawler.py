@@ -169,6 +169,11 @@ API_KEY_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "api_key
 
 
 def get_api_key():
+    env_key = os.environ.get("GOOGLE_API_KEY")
+    if env_key:
+        print("API 키 세팅 완료. (GOOGLE_API_KEY)")
+        return env_key
+
     if not os.path.exists(API_KEY_FILE):
         print("API 키 파일을 찾을 수 없습니다.")
         return None

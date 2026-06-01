@@ -189,6 +189,11 @@ def update_manifest(manifest, url, title, date, file_path, content_text, status,
 # API 키
 # ---------------------------------------------------------
 def get_api_key():
+    env_key = os.environ.get("GOOGLE_API_KEY")
+    if env_key:
+        print("[성공] API 키 세팅 완료! (GOOGLE_API_KEY)")
+        return env_key
+
     if not os.path.exists(API_KEY_FILE):
         print(f"[경고] API 키 파일을 찾을 수 없습니다: {API_KEY_FILE}")
         return None
