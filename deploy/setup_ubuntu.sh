@@ -16,7 +16,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 
 python -m pip install --upgrade pip setuptools wheel
-python -m pip install --index-url https://download.pytorch.org/whl/cpu "torch==2.3.1+cpu"
+python -m pip install --index-url https://download.pytorch.org/whl/cpu "torch==2.5.1+cpu"
 python -m pip install -r requirements.txt
 
 echo "Setup complete. Next: configure /etc/kau-chatbot.env and start the systemd service."
