@@ -1,5 +1,7 @@
 # rag_core.py 
 import os
+os.environ["OMP_NUM_THREADS"] = "2"
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 import re
 import pickle
 from google import genai
